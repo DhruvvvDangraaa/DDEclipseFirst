@@ -6,5 +6,10 @@ public class Arithmetic
 	{
 		return x+y;
 	}
+	
+	public int addition1(int x, int y)
+	{
+		return x+y;
+	}
 
 }
